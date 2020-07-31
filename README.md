@@ -1,2 +1,2 @@
 # socket
-sync client + async servers
+sync client + async server via threads
